@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/75358541/if-else-logic-in-python-based-on-various-conditions/77477207#77477207
+
 **Pandas allows to write the complex UDF**. before jump to the code, not sure if the output data is wrong.
 - index 2: the l1 is different between input and output . `data = {'l1': [2,3,np.nan` but in output `output_data = {'l1': [2,3,1`
 - index 4 ,the output is not correct based on the formula, `0.6*4 + 0.4*14.0 = 8` instead of `13.44`
