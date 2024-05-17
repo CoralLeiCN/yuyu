@@ -1,0 +1,16 @@
+ipykernel
+pandas
+numba
+jax[cpu]
+lightgbm
+statsmodels
+scipy
+scikit-learn
+ray
+ray[train]
+ipywidgets
+pyarrow
+# development tools
+pytest
+ruff
+black
