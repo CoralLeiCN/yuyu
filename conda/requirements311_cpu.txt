@@ -10,7 +10,12 @@ ray
 ray[train]
 ipywidgets
 pyarrow
+# ipython
+notebook
+# ai
+openai
 # development tools
 pytest
 ruff
 black
+sphinx
