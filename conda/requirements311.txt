@@ -10,6 +10,9 @@ ray
 ray[train]
 ipywidgets
 pyarrow
+# plot
+seaborn
+plotly
 # ipython
 notebook
 # ai
