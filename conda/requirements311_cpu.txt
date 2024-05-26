@@ -1,7 +1,6 @@
 ipykernel
 pandas
 numba
-jax[cpu]
 lightgbm
 statsmodels
 scipy
@@ -10,6 +9,10 @@ ray
 ray[train]
 ipywidgets
 pyarrow
+# DL
+transformers
+transformers[sentencepiece]
+jax[cpu]
 # plot
 seaborn
 plotly
