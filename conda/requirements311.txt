@@ -13,11 +13,15 @@ pyarrow
 transformers
 transformers[sentencepiece]
 jax[cuda12]
+bitsandbytes
+accelerate
 # plot
 seaborn
 plotly
 # ipython
 notebook
+jupyter
+jupyter_contrib_nbextensions
 # ai
 openai
 # development tools
